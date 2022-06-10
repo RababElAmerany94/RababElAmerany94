@@ -27,6 +27,14 @@
 
 - 🌱 Currently, I am working independtly in Freelance Projects.
 
+- 🔭 I’m currently working on Frontend Web Development & Android Development.
+
+- 👯 I’m looking to collaborate with Fullstack Web and Android Developers.
+
+- 🤔 I’m looking for help with Open source Contribution.
+
+- 💬 Ask me about Angular and Ionic.
+
 
 # Languages and Tools 🛠
 
@@ -140,12 +148,12 @@
 
 # Interest In 📝
 
-  👀Additionally, I am enjoys and has a keen interest in:
+  👀 Additionally, I am enjoys and has a keen interest in:
 
       - 👉 build some personal projects
       - 👉 gaming
       - 👉 reading
-      - 👉 travel
+      - 👉 traveling
 
 
 # Recent Projects I've worked :zap:
@@ -153,27 +161,29 @@
 <!-- HASHNODE_BLOG:START -->
 <p align="left">
 <a href="https://blog.sachinchaurasiya.dev//5-awesome-libraries-to-use-in-your-next-reactjs-project" title="5 Awesome Libraries To Use In Your Next ReactJs Project"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1641048305462/MtwFxOW8k.jpeg" alt="5 Awesome Libraries To Use In Your Next ReactJs Project" width="250px" align="left" /></a>
-<a href="https://blog.sachinchaurasiya.dev//5-awesome-libraries-to-use-in-your-next-reactjs-project" title="5 Awesome Libraries To Use In Your Next ReactJs Project"><strong>5 Awesome Libraries To Use In Your Next ReactJs Project</strong></a>
+<a href="https://blog.sachinchaurasiya.dev//5-awesome-libraries-to-use-in-your-next-reactjs-project" title="5 Awesome Libraries To Use In Your Next ReactJs Project"><strong>Outil de gestion des dépenses et de facturation</strong></a>
 <br/> We all know Reactjs is a UI library using which we can build user interfaces rapidly. but Reactjs ecosystem is so rich that you can build dynamic interactive web applications just by using some external libraries.
 In this post, we will discuss 5 Reac... </p> <br/> <br/>
+
 <p align="left">
 <a href="https://blog.sachinchaurasiya.dev//5-amazing-resources-to-find-colours-for-your-product-or-website" title="5 Amazing Resources To Find Colours For Your Product or Website"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1647795732842/bXKDR5dR8.jpeg" alt="5 Amazing Resources To Find Colours For Your Product or Website" width="250px" align="left" /></a>
-<a href="https://blog.sachinchaurasiya.dev//5-amazing-resources-to-find-colours-for-your-product-or-website" title="5 Amazing Resources To Find Colours For Your Product or Website"><strong>5 Amazing Resources To Find Colours For Your Product or Website</strong></a>
+<a href="https://blog.sachinchaurasiya.dev//5-amazing-resources-to-find-colours-for-your-product-or-website" title="5 Amazing Resources To Find Colours For Your Product or Website"><strong>Service de livraison à domicile à Tange</strong></a>
 <br/> Howdy people, are you running out of colours for your product or website?
 don't worry, today I will share the 5 amazing resources you can use to choose colours.
 Colorffy
 Create gradients or palettes, save one of the many fantastic colour schemes or u... </p> <br/> <br/>
+
 <p align="left">
 <a href="https://blog.sachinchaurasiya.dev//5-best-practices-for-reactjs" title="5 Best practices for ReactJs"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1647093503538/0aHX5-69q.png" alt="5 Best practices for ReactJs" width="250px" align="left" /></a>
-<a href="https://blog.sachinchaurasiya.dev//5-best-practices-for-reactjs" title="5 Best practices for ReactJs"><strong>5 Best practices for ReactJs</strong></a>
+<a href="https://blog.sachinchaurasiya.dev//5-best-practices-for-reactjs" title="5 Best practices for ReactJs"><strong>gestion du bâtiment </strong></a>
 <br/> Howdy people, In this article we will be discussing the 5 best ReactJs practices that will help you simplify the building of great and high-performance applications.
 Use Fragment
 We know React only allows to return one JSX element at a time, To wrap ... </p> <br/> <br/>
+
 <p align="left">
-<a href="https://blog.sachinchaurasiya.dev//7-useful-websites-for-web-developers" title="7 Useful Websites For Web Developers"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1643274672274/4LMfiEsx4.png" alt="7 Useful Websites For Web Developers" width="250px" align="left" /></a>
-<a href="https://blog.sachinchaurasiya.dev//7-useful-websites-for-web-developers" title="7 Useful Websites For Web Developers"><strong>7 Useful Websites For Web Developers</strong></a>
-<br/> As web developers, daily we try to solve some problems and to solve those problems we may need to have some handy tools/websites where we can look up to.
-Today in this article, I will be sharing 7 useful websites with you that will somehow help you i... </p> <br/> <br/>
+<a href="https://blog.sachinchaurasiya.dev//7-useful-websites-for-web-developers" title="7 Useful Websites For Web Developers"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1643274672274/4LMfiEsx4.png" alt="7 Useful Websites For Web Developers" height="150px" width="250px" align="left" /></a>
+<a href="https://github.com/RababElAmerany94/SQLITE-Editor" title="7 Useful Websites For Web Developers"><strong>application Android permettant la gestion de base de données SQLITE</strong></a>
+<br/> Notre objectif est de créer une application qui aidera les utilisateurs au sein d’une entreprise ; le but est de mettre à leur disposition une interface permettant une manipulation de base des bases de données. Les fonctions principales de cette application sont : la création d’objets (bases de données, tables, lignes), la suppression d’objets (lignes, tables) en plus d’une couche d’authentification permettant de faire de distinguer deux types d’utilisateurs (Administrateur et utilisateur normal).</p> <br/> <br/>
 <!-- HASHNODE_BLOG:END -->
 
 
