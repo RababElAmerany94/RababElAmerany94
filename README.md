@@ -8,9 +8,7 @@
 
 <p align="center">
 <a href = "https://rababelamerany94.github.io/rababelamerany.github.io/"/><img title="Site profile" src="https://upload.wikimedia.org/wikipedia/commons/7/74/Internet-web-browser.svg" height='30' weight='30'></a>
-
 <a href = "https://www.linkedin.com/in/rabab-el-amerany-1000b318a"/><img title="linkedin profile" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/linkedin.svg" height='30' weight='30'></a>
-
 <a href = "https://github.com/RababElAmerany94"><img title="github profile"  src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/github.svg" height='30' weight='30'></a>
 </p>
 
@@ -155,17 +153,17 @@
 
 <!-- Project:START -->
 <p align="left">
-<a href="https://github.com/RababElAmerany94/delivery-service" title="Delivery Service"><img src="https://github.com/RababElAmerany94/delivery-service/blob/main/assets/images/site.PNG" alt="Delivery Service" width="250px" align="left" /></a>
+<a href="https://github.com/RababElAmerany94/delivery-service" title="Delivery Service"><img src="https://github.com/RababElAmerany94/delivery-service/blob/main/assets/images/site.PNG" alt="Delivery Service" width="250px" height="150px" align="left" /></a>
 <a href="https://github.com/RababElAmerany94/delivery-service" title="Delivery Service"><strong>Delivery Service</strong></a>
 <br/> Delivery management software, also known as broker software, streamlines business delivery operations from start to finish. Delivery management software can be used by brokers, drivers, restaurant delivery, logistics and transportation companies.... </p> <br/> <br/>
 
 <p align="left">
-<a href="https://github.com/RababElAmerany94/billing-management-web" title="5 Amazing Resources To Find Colours For Your Product or Website"><img src="https://github.com/RababElAmerany94/billing-management-web/blob/main/src/assets/images/site.PNG" alt="Billing Management Web" width="250px" align="left" /></a>
+<a href="https://github.com/RababElAmerany94/billing-management-web" title="5 Amazing Resources To Find Colours For Your Product or Website"><img src="https://github.com/RababElAmerany94/billing-management-web/blob/main/src/assets/images/site.PNG" alt="Billing Management Web" width="250px" height="150px" align="left" /></a>
 <a href="https://github.com/RababElAmerany94/billing-management-web" title="Billing Management Web"><strong>Billing Management Web</strong></a>
 <br/> Web solution aimed at optimizing the efficiency of internal services, the relationship with corporate customers and their partners with Angular, Core .NET, Chart.js, Advanced Pie Chart, angular-calendar, bootstrap, ionic, Sql, iTextSharp, c#, EntityFrameworkCore, Linq, AutoMapper, SmartGit, MariaDB……. </p> <br/> <br/>
 
 <p align="left">
-<a href="https://github.com/RababElAmerany94/billing-management-mobile" title="Billing Management Mobile"><img src="https://github.com/RababElAmerany94/billing-management-mobile/blob/main/src/assets/images/mobile-bci.PNG" alt="Billing Management Mobile" width="250px" align="left" /></a>
+<a href="https://github.com/RababElAmerany94/billing-management-mobile" title="Billing Management Mobile"><img src="https://github.com/RababElAmerany94/billing-management-mobile/blob/main/src/assets/images/mobile-bci.PNG" alt="Billing Management Mobile" height="150px" width="250px" align="left" /></a>
 <a href="https://github.com/RababElAmerany94/billing-management-mobile" title="Billing Management Mobile"><strong>gestion du bâtiment </strong></a>
 <br/> Mobile solution aimed at piloting the commercial activity of the company, managing the relationship with customers, collecting, concentrating and analyzing customer data in Android and iOS applications with Ionic as the programming language.... </p> <br/> <br/>
 
