@@ -7,7 +7,7 @@
  <p align="center"><img src="https://readme-typing-svg.herokuapp.com?color=%23FFFFFF&size=24&width=500&height=36&lines=Hey+%F0%9F%91%8B+This+is+Sachin+Chaurasiya;Software+Engineer+%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB;OpenSource+Contributor+%F0%9F%91%A8%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB;Technical+Blogger+%F0%9F%93%9D"/></p>
 
 <p align="center">
-<a href = "https://rababelamerany94.github.io/rababelamerany.github.io/"/><img title="Site profile" src="https://upload.wikimedia.org/wikipedia/commons/7/74/Internet-web-browser.svg" height='30' weight='30'></a>
+<a href = "https://rababelamerany94.github.io/rababelamerany/"/><img title="Site profile" src="https://upload.wikimedia.org/wikipedia/commons/7/74/Internet-web-browser.svg" height='30' weight='30'></a>
 <a href = "https://www.linkedin.com/in/rabab-el-amerany-1000b318a"/><img title="linkedin profile" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/linkedin.svg" height='30' weight='30'></a>
 <a href = "https://github.com/RababElAmerany94"><img title="github profile"  src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/github.svg" height='30' weight='30'></a>
 </p>
