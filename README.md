@@ -172,3 +172,12 @@
 <a href="https://github.com/RababElAmerany94/SQLITE-Editor" title="SQLITE Editor"><strong>SQLITE Editor</strong></a>
 <br/> SqliteEditor is an Android application for SQLITE database management. Our goal is to create an application that will help users within a company; the goal is to provide them with an interface allowing basic manipulation of databases. The main functions of this application are: the creation of objects (databases, tables, lines), the deletion of objects (lines, tables) in addition to an authentication layer allowing to distinguish between two types of users (Administrator and normal user).</p> <br/> <br/>
 <!-- Project:END -->
+
+<!-- CONTACT -->
+## Contact
+
+Rabab El Amerany - [@my linkedin](https://www.linkedin.com/in/rabab-el-amerany-1000b318a/) - rab.el.amerany@gmail.com
+
+Project Link: [https://github.com/RababElAmerany94?tab=repositories](https://github.com/RababElAmerany94?tab=repositories)
+
+<p align="right">(<a href="#top">back to top</a>)</p>
