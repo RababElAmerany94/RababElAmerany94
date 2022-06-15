@@ -7,14 +7,11 @@
  <p align="center"><img src="https://readme-typing-svg.herokuapp.com?color=%23FFFFFF&size=24&width=500&height=36&lines=Hey+%F0%9F%91%8B+This+is+Sachin+Chaurasiya;Software+Engineer+%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB;OpenSource+Contributor+%F0%9F%91%A8%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB;Technical+Blogger+%F0%9F%93%9D"/></p>
 
 <p align="center">
-<a href="https://blog.sachinchaurasiya.dev/">
-<img  alt="SachinChaurasiya Blog" title="Rabab Profile" src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" />
-</a>
-<a href="https://dev.to/sachinchaurasiya">
-<img alt="SachinChaurasiya Blog" title="Dev Community Profile" src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white"/>
-</a>
-<a href = https://www.linkedin.com/in/rabab-el-amerany-1000b318a/><img title="linkedin profile" src=https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/linkedin.svg height='30' weight='30'></a>
-<a href = https://github.com/RababElAmerany94><img title="github profile"  src=https://github.com/edent/SuperTinyIcons/blob/master/images/svg/github.svg height='30' weight='30'></a>
+<a href = "https://rababelamerany94.github.io/rababelamerany.github.io/"/><img title="Site profile" src="https://upload.wikimedia.org/wikipedia/commons/7/74/Internet-web-browser.svg" height='30' weight='30'></a>
+
+<a href = "https://www.linkedin.com/in/rabab-el-amerany-1000b318a"/><img title="linkedin profile" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/linkedin.svg" height='30' weight='30'></a>
+
+<a href = "https://github.com/RababElAmerany94"><img title="github profile"  src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/github.svg" height='30' weight='30'></a>
 </p>
 
 # About me 👨🏻‍💻
@@ -27,9 +24,7 @@
 
 - 🌱 Currently, I am working independtly in Freelance Projects.
 
-- 🔭 I’m currently working on Frontend Web Development & Android Development.
-
-- 👯 I’m looking to collaborate with Fullstack Web and Android Developers.
+- 👯 I’m looking to collaborate with Fullstack Web and Mobile Developers.
 
 - 🤔 I’m looking for help with Open source Contribution.
 
@@ -128,13 +123,13 @@
     </td>
   </tr>
   
-   <tr>
-<!-- <td align="center" width="96"> 
-      <a href="#" >
-        <img src="https://cdn.worldvectorlogo.com/logos/redux.svg" width="48" height="48" alt="Redux" />
-      </a>
-      <br>Redux
-    </td> -->
+  <tr>
+  <!--<td align="center" width="96"> 
+    <a href="#" >
+      <img src="https://en.wikipedia.org/wiki/File:Eclipse-Luna-Logo.svg" width="48" height="48" alt="Eclipse" />
+    </a>
+    <br>Eclipse
+  </td> -->
     <!--     <td align="center" width="96">
       <a href="#" >
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/GraphQL_Logo.svg/2048px-GraphQL_Logo.svg.png" width="48" height="48" alt="GraphQL" />
@@ -158,32 +153,24 @@
 
 # Recent Projects I've worked :zap:
 
-<!-- HASHNODE_BLOG:START -->
+<!-- Project:START -->
 <p align="left">
-<a href="https://blog.sachinchaurasiya.dev//5-awesome-libraries-to-use-in-your-next-reactjs-project" title="5 Awesome Libraries To Use In Your Next ReactJs Project"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1641048305462/MtwFxOW8k.jpeg" alt="5 Awesome Libraries To Use In Your Next ReactJs Project" width="250px" align="left" /></a>
-<a href="https://blog.sachinchaurasiya.dev//5-awesome-libraries-to-use-in-your-next-reactjs-project" title="5 Awesome Libraries To Use In Your Next ReactJs Project"><strong>Outil de gestion des dépenses et de facturation</strong></a>
-<br/> We all know Reactjs is a UI library using which we can build user interfaces rapidly. but Reactjs ecosystem is so rich that you can build dynamic interactive web applications just by using some external libraries.
-In this post, we will discuss 5 Reac... </p> <br/> <br/>
-
-<p align="left">
-<a href="https://blog.sachinchaurasiya.dev//5-amazing-resources-to-find-colours-for-your-product-or-website" title="5 Amazing Resources To Find Colours For Your Product or Website"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1647795732842/bXKDR5dR8.jpeg" alt="5 Amazing Resources To Find Colours For Your Product or Website" width="250px" align="left" /></a>
-<a href="https://blog.sachinchaurasiya.dev//5-amazing-resources-to-find-colours-for-your-product-or-website" title="5 Amazing Resources To Find Colours For Your Product or Website"><strong>Service de livraison à domicile à Tange</strong></a>
-<br/> Howdy people, are you running out of colours for your product or website?
-don't worry, today I will share the 5 amazing resources you can use to choose colours.
-Colorffy
-Create gradients or palettes, save one of the many fantastic colour schemes or u... </p> <br/> <br/>
+<a href="https://github.com/RababElAmerany94/delivery-service" title="Delivery Service"><img src="https://github.com/RababElAmerany94/delivery-service/blob/main/assets/images/site.PNG" alt="Delivery Service" width="250px" align="left" /></a>
+<a href="https://github.com/RababElAmerany94/delivery-service" title="Delivery Service"><strong>Delivery Service</strong></a>
+<br/> Delivery management software, also known as broker software, streamlines business delivery operations from start to finish. Delivery management software can be used by brokers, drivers, restaurant delivery, logistics and transportation companies.... </p> <br/> <br/>
 
 <p align="left">
-<a href="https://blog.sachinchaurasiya.dev//5-best-practices-for-reactjs" title="5 Best practices for ReactJs"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1647093503538/0aHX5-69q.png" alt="5 Best practices for ReactJs" width="250px" align="left" /></a>
-<a href="https://blog.sachinchaurasiya.dev//5-best-practices-for-reactjs" title="5 Best practices for ReactJs"><strong>gestion du bâtiment </strong></a>
-<br/> Howdy people, In this article we will be discussing the 5 best ReactJs practices that will help you simplify the building of great and high-performance applications.
-Use Fragment
-We know React only allows to return one JSX element at a time, To wrap ... </p> <br/> <br/>
+<a href="https://github.com/RababElAmerany94/billing-management-web" title="5 Amazing Resources To Find Colours For Your Product or Website"><img src="https://github.com/RababElAmerany94/billing-management-web/blob/main/src/assets/images/site.PNG" alt="Billing Management Web" width="250px" align="left" /></a>
+<a href="https://github.com/RababElAmerany94/billing-management-web" title="Billing Management Web"><strong>Billing Management Web</strong></a>
+<br/> Web solution aimed at optimizing the efficiency of internal services, the relationship with corporate customers and their partners with Angular, Core .NET, Chart.js, Advanced Pie Chart, angular-calendar, bootstrap, ionic, Sql, iTextSharp, c#, EntityFrameworkCore, Linq, AutoMapper, SmartGit, MariaDB……. </p> <br/> <br/>
 
 <p align="left">
-<a href="https://blog.sachinchaurasiya.dev//7-useful-websites-for-web-developers" title="7 Useful Websites For Web Developers"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1643274672274/4LMfiEsx4.png" alt="7 Useful Websites For Web Developers" height="150px" width="250px" align="left" /></a>
-<a href="https://github.com/RababElAmerany94/SQLITE-Editor" title="7 Useful Websites For Web Developers"><strong>application Android permettant la gestion de base de données SQLITE</strong></a>
-<br/> Notre objectif est de créer une application qui aidera les utilisateurs au sein d’une entreprise ; le but est de mettre à leur disposition une interface permettant une manipulation de base des bases de données. Les fonctions principales de cette application sont : la création d’objets (bases de données, tables, lignes), la suppression d’objets (lignes, tables) en plus d’une couche d’authentification permettant de faire de distinguer deux types d’utilisateurs (Administrateur et utilisateur normal).</p> <br/> <br/>
-<!-- HASHNODE_BLOG:END -->
+<a href="https://github.com/RababElAmerany94/billing-management-mobile" title="Billing Management Mobile"><img src="https://github.com/RababElAmerany94/billing-management-mobile/blob/main/src/assets/images/mobile-bci.PNG" alt="Billing Management Mobile" width="250px" align="left" /></a>
+<a href="https://github.com/RababElAmerany94/billing-management-mobile" title="Billing Management Mobile"><strong>gestion du bâtiment </strong></a>
+<br/> Mobile solution aimed at piloting the commercial activity of the company, managing the relationship with customers, collecting, concentrating and analyzing customer data in Android and iOS applications with Ionic as the programming language.... </p> <br/> <br/>
 
-
+<p align="left">
+<a href="https://github.com/RababElAmerany94/SQLITE-Editor" title="SQLITE Editor"><img src="https://github.com/RababElAmerany94/SQLITE-Editor/blob/master/mobile-app.PNG" alt="SQLITE Editor" height="150px" width="250px" align="left" /></a>
+<a href="https://github.com/RababElAmerany94/SQLITE-Editor" title="SQLITE Editor"><strong>SQLITE Editor</strong></a>
+<br/> SqliteEditor is an Android application for SQLITE database management. Our goal is to create an application that will help users within a company; the goal is to provide them with an interface allowing basic manipulation of databases. The main functions of this application are: the creation of objects (databases, tables, lines), the deletion of objects (lines, tables) in addition to an authentication layer allowing to distinguish between two types of users (Administrator and normal user).</p> <br/> <br/>
+<!-- Project:END -->
