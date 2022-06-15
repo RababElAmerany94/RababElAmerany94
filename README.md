@@ -7,9 +7,9 @@
  <p align="center"><img src="https://readme-typing-svg.herokuapp.com?color=%23FFFFFF&size=24&width=500&height=36&lines=Hey+%F0%9F%91%8B+This+is+Sachin+Chaurasiya;Software+Engineer+%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB;OpenSource+Contributor+%F0%9F%91%A8%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB;Technical+Blogger+%F0%9F%93%9D"/></p>
 
 <p align="center">
-<a href = "https://rababelamerany94.github.io/rababelamerany/"/><img title="Site profile" src="https://upload.wikimedia.org/wikipedia/commons/7/74/Internet-web-browser.svg" height='30' weight='30'></a>
+<a href = "https://rabelamerany.github.io/rababelamerany/"/><img title="Site profile" src="https://upload.wikimedia.org/wikipedia/commons/7/74/Internet-web-browser.svg" height='30' weight='30'></a>
 <a href = "https://www.linkedin.com/in/rabab-el-amerany-1000b318a"/><img title="linkedin profile" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/linkedin.svg" height='30' weight='30'></a>
-<a href = "https://github.com/RababElAmerany94"><img title="github profile"  src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/github.svg" height='30' weight='30'></a>
+<a href = "https://github.com/rabelamerany"><img title="github profile"  src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/github.svg" height='30' weight='30'></a>
 </p>
 
 # About me 👨🏻‍💻
@@ -153,23 +153,23 @@
 
 <!-- Project:START -->
 <p align="left">
-<a href="https://github.com/RababElAmerany94/delivery-service" title="Delivery Service"><img src="https://github.com/RababElAmerany94/delivery-service/blob/main/assets/images/site.PNG" alt="Delivery Service" width="250px" height="150px" align="left" /></a>
-<a href="https://github.com/RababElAmerany94/delivery-service" title="Delivery Service"><strong>Delivery Service</strong></a>
+<a href="https://github.com/rabelamerany/delivery-service" title="Delivery Service"><img src="https://github.com/rabelamerany/delivery-service/blob/main/assets/images/site.PNG" alt="Delivery Service" width="250px" height="150px" align="left" /></a>
+<a href="https://github.com/rabelamerany/delivery-service" title="Delivery Service"><strong>Delivery Service</strong></a>
 <br/> Delivery management software, also known as broker software, streamlines business delivery operations from start to finish. Delivery management software can be used by brokers, drivers, restaurant delivery, logistics and transportation companies.... </p> <br/> <br/>
 
 <p align="left">
-<a href="https://github.com/RababElAmerany94/billing-management-web" title="5 Amazing Resources To Find Colours For Your Product or Website"><img src="https://github.com/RababElAmerany94/billing-management-web/blob/main/src/assets/images/site.PNG" alt="Billing Management Web" width="250px" height="150px" align="left" /></a>
-<a href="https://github.com/RababElAmerany94/billing-management-web" title="Billing Management Web"><strong>Billing Management Web</strong></a>
+<a href="https://github.com/rabelamerany/billing-management-web" title="5 Amazing Resources To Find Colours For Your Product or Website"><img src="https://github.com/rabelamerany/billing-management-web/blob/main/src/assets/images/site.PNG" alt="Billing Management Web" width="250px" height="150px" align="left" /></a>
+<a href="https://github.com/rabelamerany/billing-management-web" title="Billing Management Web"><strong>Billing Management Web</strong></a>
 <br/> Web solution aimed at optimizing the efficiency of internal services, the relationship with corporate customers and their partners with Angular, Core .NET, Chart.js, Advanced Pie Chart, angular-calendar, bootstrap, ionic, Sql, iTextSharp, c#, EntityFrameworkCore, Linq, AutoMapper, SmartGit, MariaDB……. </p> <br/> <br/>
 
 <p align="left">
-<a href="https://github.com/RababElAmerany94/billing-management-mobile" title="Billing Management Mobile"><img src="https://github.com/RababElAmerany94/billing-management-mobile/blob/main/src/assets/images/mobile-bci.PNG" alt="Billing Management Mobile" height="150px" width="250px" align="left" /></a>
-<a href="https://github.com/RababElAmerany94/billing-management-mobile" title="Billing Management Mobile"><strong>gestion du bâtiment </strong></a>
+<a href="https://github.com/rabelamerany/billing-management-mobile" title="Billing Management Mobile"><img src="https://github.com/rabelamerany/billing-management-mobile/blob/main/src/assets/images/mobile-bci.PNG" alt="Billing Management Mobile" height="150px" width="250px" align="left" /></a>
+<a href="https://github.com/rabelamerany/billing-management-mobile" title="Billing Management Mobile"><strong>gestion du bâtiment </strong></a>
 <br/> Mobile solution aimed at piloting the commercial activity of the company, managing the relationship with customers, collecting, concentrating and analyzing customer data in Android and iOS applications with Ionic as the programming language.... </p> <br/> <br/>
 
 <p align="left">
-<a href="https://github.com/RababElAmerany94/SQLITE-Editor" title="SQLITE Editor"><img src="https://github.com/RababElAmerany94/SQLITE-Editor/blob/master/mobile-app.PNG" alt="SQLITE Editor" height="150px" width="250px" align="left" /></a>
-<a href="https://github.com/RababElAmerany94/SQLITE-Editor" title="SQLITE Editor"><strong>SQLITE Editor</strong></a>
+<a href="https://github.com/rabelamerany/SQLITE-Editor" title="SQLITE Editor"><img src="https://github.com/rabelamerany/SQLITE-Editor/blob/master/mobile-app.PNG" alt="SQLITE Editor" height="150px" width="250px" align="left" /></a>
+<a href="https://github.com/rabelamerany/SQLITE-Editor" title="SQLITE Editor"><strong>SQLITE Editor</strong></a>
 <br/> SqliteEditor is an Android application for SQLITE database management. Our goal is to create an application that will help users within a company; the goal is to provide them with an interface allowing basic manipulation of databases. The main functions of this application are: the creation of objects (databases, tables, lines), the deletion of objects (lines, tables) in addition to an authentication layer allowing to distinguish between two types of users (Administrator and normal user).</p> <br/> <br/>
 <!-- Project:END -->
 
@@ -178,6 +178,6 @@
 
 Rabab El Amerany - [@my linkedin](https://www.linkedin.com/in/rabab-el-amerany-1000b318a/) - rab.el.amerany@gmail.com
 
-Project Link: [https://github.com/RababElAmerany94?tab=repositories](https://github.com/RababElAmerany94?tab=repositories)
+Project Link: [https://github.com/rabelamerany?tab=repositories](https://github.com/rabelamerany?tab=repositories)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
