@@ -16,9 +16,9 @@
 
 - 👋 Hi, Thank you for a look in. I'm a Software Engineer and a Full Stack developer. Javascript, Typescript, ReactJS, Angular, PHP, Laravel, JEE, Java, Git, and GitHub are the technologies I use most often.
 
-- My strength lies in a combination of self-learning and consistency. To improve myself at every moment, I believe in the learning process rather than results.
+- 🔭 My strength lies in a combination of self-learning and consistency. To improve myself at every moment, I believe in the learning process rather than results.
 
-- I enjoy connecting with people to share ideas and knowledge.
+- 👯 I enjoy connecting with people to share ideas and knowledge.
 
 - 🌱 Currently, I am working independtly in Freelance Projects.
 
