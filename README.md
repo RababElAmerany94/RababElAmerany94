@@ -1,3 +1,6 @@
+<div id="top">
+</div>
+
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
@@ -163,7 +166,7 @@
 <br/> Web solution aimed at optimizing the efficiency of internal services, the relationship with corporate customers and their partners with Angular, Core .NET, Chart.js, Advanced Pie Chart, angular-calendar, bootstrap, ionic, Sql, iTextSharp, c#, EntityFrameworkCore, Linq, AutoMapper, SmartGit, MariaDB……. </p> <br/> <br/> <br/> <br/>
 
 <p align="left">
-<a href="https://github.com/rabelamerany/billing-management-mobile" title="Billing Management Mobile"><img src="https://github.com/rabelamerany/billing-management-mobile/blob/main/src/assets/images/mobile-bci.PNG" alt="Billing Management Mobile" height="150px" width="250px" align="left" /></a>
+<a href="https://github.com/rabelamerany/billing-management-mobile" title="Billing Management Mobile"><img src="https://github.com/rabelamerany/billing-management-mobile/blob/main/src/assets/images/mobile-picture.PNG" alt="Billing Management Mobile" height="150px" width="250px" align="left" /></a>
 <a href="https://github.com/rabelamerany/billing-management-mobile" title="Billing Management Mobile"><strong>gestion du bâtiment </strong></a>
 <br/> Mobile solution aimed at piloting the commercial activity of the company, managing the relationship with customers, collecting, concentrating and analyzing customer data in Android and iOS applications with Ionic as the programming language.... </p> <br/> <br/> <br/> <br/>
 
