@@ -155,22 +155,22 @@
 <p align="left">
 <a href="https://github.com/rabelamerany/delivery-service" title="Delivery Service"><img src="https://github.com/rabelamerany/delivery-service/blob/main/assets/images/site.PNG" alt="Delivery Service" width="250px" height="150px" align="left" /></a>
 <a href="https://github.com/rabelamerany/delivery-service" title="Delivery Service"><strong>Delivery Service</strong></a>
-<br/> Delivery management software, also known as broker software, streamlines business delivery operations from start to finish. Delivery management software can be used by brokers, drivers, restaurant delivery, logistics and transportation companies.... </p> <br/> <br/>
+<br/> Delivery management software, also known as broker software, streamlines business delivery operations from start to finish. Delivery management software can be used by brokers, drivers, restaurant delivery, logistics and transportation companies.... </p> <br/> <br/> <br/> <br/>
 
 <p align="left">
 <a href="https://github.com/rabelamerany/billing-management-web" title="5 Amazing Resources To Find Colours For Your Product or Website"><img src="https://github.com/rabelamerany/billing-management-web/blob/main/src/assets/images/site.PNG" alt="Billing Management Web" width="250px" height="150px" align="left" /></a>
 <a href="https://github.com/rabelamerany/billing-management-web" title="Billing Management Web"><strong>Billing Management Web</strong></a>
-<br/> Web solution aimed at optimizing the efficiency of internal services, the relationship with corporate customers and their partners with Angular, Core .NET, Chart.js, Advanced Pie Chart, angular-calendar, bootstrap, ionic, Sql, iTextSharp, c#, EntityFrameworkCore, Linq, AutoMapper, SmartGit, MariaDB……. </p> <br/> <br/>
+<br/> Web solution aimed at optimizing the efficiency of internal services, the relationship with corporate customers and their partners with Angular, Core .NET, Chart.js, Advanced Pie Chart, angular-calendar, bootstrap, ionic, Sql, iTextSharp, c#, EntityFrameworkCore, Linq, AutoMapper, SmartGit, MariaDB……. </p> <br/> <br/> <br/> <br/>
 
 <p align="left">
 <a href="https://github.com/rabelamerany/billing-management-mobile" title="Billing Management Mobile"><img src="https://github.com/rabelamerany/billing-management-mobile/blob/main/src/assets/images/mobile-bci.PNG" alt="Billing Management Mobile" height="150px" width="250px" align="left" /></a>
 <a href="https://github.com/rabelamerany/billing-management-mobile" title="Billing Management Mobile"><strong>gestion du bâtiment </strong></a>
-<br/> Mobile solution aimed at piloting the commercial activity of the company, managing the relationship with customers, collecting, concentrating and analyzing customer data in Android and iOS applications with Ionic as the programming language.... </p> <br/> <br/>
+<br/> Mobile solution aimed at piloting the commercial activity of the company, managing the relationship with customers, collecting, concentrating and analyzing customer data in Android and iOS applications with Ionic as the programming language.... </p> <br/> <br/> <br/> <br/>
 
 <p align="left">
 <a href="https://github.com/rabelamerany/SQLITE-Editor" title="SQLITE Editor"><img src="https://github.com/rabelamerany/SQLITE-Editor/blob/master/mobile-app.PNG" alt="SQLITE Editor" height="150px" width="250px" align="left" /></a>
 <a href="https://github.com/rabelamerany/SQLITE-Editor" title="SQLITE Editor"><strong>SQLITE Editor</strong></a>
-<br/> SqliteEditor is an Android application for SQLITE database management. Our goal is to create an application that will help users within a company; the goal is to provide them with an interface allowing basic manipulation of databases. The main functions of this application are: the creation of objects (databases, tables, lines), the deletion of objects (lines, tables) in addition to an authentication layer allowing to distinguish between two types of users (Administrator and normal user).</p> <br/> <br/>
+<br/> SqliteEditor is an Android application for SQLITE database management. Our goal is to create an application that will help users within a company; the goal is to provide them with an interface allowing basic manipulation of databases. The main functions of this application are: the creation of objects (databases, tables, lines), the deletion of objects (lines, tables) in addition to an authentication layer allowing to distinguish between two types of users (Administrator and normal user).</p> <br/> <br/> <br/> <br/>
 <!-- Project:END -->
 
 <!-- CONTACT -->
