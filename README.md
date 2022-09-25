@@ -17,7 +17,7 @@
 
 # About me 👨🏻‍💻
 
-- 👋 Hi, Thank you for a look in. I'm a Software Engineer and a Full Stack developer. Javascript, Typescript, ReactJS, Angular, PHP, Laravel, JEE, Java, Git, and GitHub are the technologies I use most often.
+- 👋 Hi, Thank you for a look in. I'm a Full Stack developer. Javascript, Typescript, ReactJS, Angular, PHP, Laravel, JEE, Java, Git, and GitHub are the technologies I use most often.
 
 - 🔭 My strength lies in a combination of self-learning and consistency. To improve myself at every moment, I believe in the learning process rather than results.
 
@@ -167,7 +167,7 @@
 
 <p align="left">
 <a href="https://github.com/rabelamerany/billing-management-mobile" title="Billing Management Mobile"><img src="https://github.com/rabelamerany/billing-management-mobile/blob/main/src/assets/images/mobile-picture.PNG" alt="Billing Management Mobile" height="150px" width="250px" align="left" /></a>
-<a href="https://github.com/rabelamerany/billing-management-mobile" title="Billing Management Mobile"><strong>gestion du bâtiment </strong></a>
+<a href="https://github.com/rabelamerany/billing-management-mobile" title="Billing Management Mobile"><strong>Billing Management Mobile </strong></a>
 <br/> Mobile solution aimed at piloting the commercial activity of the company, managing the relationship with customers, collecting, concentrating and analyzing customer data in Android and iOS applications with Ionic as the programming language.... </p> <br/> <br/> <br/> <br/>
 
 <p align="left">
